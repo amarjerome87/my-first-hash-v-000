@@ -1,5 +1,5 @@
 def my_hash
-hashingstance = {}
+hashingstance = hash.new
 
 end
 
