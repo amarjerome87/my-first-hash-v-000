@@ -1,6 +1,6 @@
 def my_hash
 hashingstance = { }
-
+hashingstance = {"name" => "amar"}
 end
 
 
